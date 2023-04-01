@@ -22,3 +22,6 @@ Beberapa manfaat dari menggunakan sistem modularisasi pada website antara lain:
 4. Meningkatkan fleksibilitas dan skalabilitas situs web. Dengan modularisasi, situs web dapat dengan mudah ditambahkan atau dikurangi modul sesuai kebutuhan, sehingga   dapat dengan mudah ditingkatkan atau dikembangkan seiring waktu.
 
 5. Meningkatkan kualitas dan konsistensi situs web. Dengan menggunakan modul-modul yang sama pada berbagai halaman, maka dapat memastikan konsistensi desain dan kualitas pada seluruh situs web.
+=========================================================================================================================================
+![Skren](/SS/1.jpg)
+
