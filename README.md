@@ -25,3 +25,6 @@ Beberapa manfaat dari menggunakan sistem modularisasi pada website antara lain:
 =========================================================================================================================================
 ![Skren](/SS/1.jpg)
 
+pada gambar 1 merupakan Dashboard dari Database PHPMYADMIN 
+pada sistem ini harus menggunakan Database sebagai penyimpanan data nya.
+
